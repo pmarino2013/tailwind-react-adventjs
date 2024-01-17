@@ -1,0 +1,26 @@
+[
+    {
+        "pregunta":"¿Qué es un adviento?",
+        "respuesta":"Aunque tiene sus raíces en la religión católica, el adviento se ha convertido en una tradición donde los niños conseguían chocolate por 4 semanas, uno por día, del 1 al 24 de diciembre. Aquí lo adaptamos a retos de programación."
+    },
+    {
+        "pregunta":"¿Dónde encuentro el código fuente?",
+        "respuesta":"El código fuente no está disponible"
+    },
+    {
+        "pregunta":"¿Esto es una idea original?",
+        "respuesta":"Desde 2015 se celebra el Advent Of Code que trae retos de programación cada día. En este caso, los retos están pensados para ser solucionados con JavaScript/TypeScript."
+    },
+    {
+        "pregunta":"¿Es gratis?",
+        "respuesta":"Sí, jugar al AdventJS es totalmente gratis. Del 1 al 24 de diciembre tendrás un nuevo reto disponible."
+    },
+    {
+        "pregunta":"¿Cómo puedo apoyar el proyecto? ¿Cómo puedo contribuir?",
+        "respuesta":"Si quieres ayudarnos, comparte el proyecto en las redes sociales y con tus amigos para que más gente participe. Ayuda en Discord a la gente que tenga problemas solucionando los retos. Participa en los directos de Twitch en el canal de midudev."
+    },
+    {
+        "pregunta":"¿Se puede intentar varias soluciones para tener mayor puntuación?",
+        "respuesta":"Puedes enviar tantas soluciones como quieras. Se guardará la mejor puntuación que hayas enviado."
+    }
+]

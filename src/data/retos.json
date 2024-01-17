@@ -1,0 +1,38 @@
+[
+    {
+        "image":"https://adventjs.dev/challenges-2023/1.png",
+        "title":"perro",
+        "number":"01",
+        "category":"Fácil"
+    },
+    {
+        "image":"https://adventjs.dev/challenges-2023/2.png",
+        "title":"viejo",
+        "number":"02",
+        "category":"Fácil"
+    },
+    {
+        "image":"https://adventjs.dev/challenges-2023/3.png",
+        "title":"pinguino",
+        "number":"03",
+        "category":"Fácil"
+    },
+    {
+        "image":"https://adventjs.dev/challenges-2023/9.png",
+        "title":"hombre de nieve",
+        "number":"04",
+        "category":"Medio"
+    },
+    {
+        "image":"https://adventjs.dev/challenges-2023/10.png",
+        "title":"Reno",
+        "number":"05",
+        "category":"Medio"
+    },
+    {
+        "image":"https://adventjs.dev/challenges-2023/14.png",
+        "title":"regalo",
+        "number":"06",
+        "category":"Medio"
+    }
+]
