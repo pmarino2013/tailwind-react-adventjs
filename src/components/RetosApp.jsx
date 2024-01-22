@@ -1,4 +1,3 @@
-import React from "react";
 import retos from "../data/retos.json";
 
 const RetosApp = () => {
@@ -24,7 +23,7 @@ const RetosApp = () => {
             className="flex-grow md:flex-grow-0
         group
         relative
-        transform md:hover:scale-110 "
+        transform md:hover:scale-110 my-element"
           >
             <article
               className={`${
